@@ -1,6 +1,0 @@
-{
-  "projects": {
-    "default": "cimscertif",
-    "build": "cims-certif"
-  }
-}
